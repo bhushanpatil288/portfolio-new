@@ -1,0 +1,10 @@
+session 1 
+-> basic styles and card done.
+
+session 2 
+-> added more styles.
+-> 3d card-effect added on myInfoCard. 
+-> added heading and description.
+
+next todo
+-> complete full inspiration image.

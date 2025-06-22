@@ -1,0 +1,66 @@
+
+/* backgrounds */
+.accent-bg{
+    background-color: var(--accent);
+}
+.light-black-bg{
+    background-color: var(--light-black);
+}
+.black-bg{
+    background-color: var(--black);
+}
+
+
+
+
+/* text */
+.sec-heading{
+    color: var(--second-heading);
+}
+
+.text-b{
+    color: var(--text-b);
+}
+
+.line-height{
+    line-height: 16px;
+}
+
+
+
+/* decorations */
+.my-shadow{
+    box-shadow: 10px 10px 20px var(--black);
+}
+.white-shadow{
+    box-shadow: 0px 0px 10px var(--white);
+}
+.white-shadow-hover:hover{
+    box-shadow: 0px 0px 10px var(--white);
+}
+
+.hover-primary:hover{
+    color: var(--accent);
+    transition: all 0.1s linear;
+    background-color: var(--second-heading);
+    filter: opacity(0.8);
+    scale: 1.1;
+    transform: skewX(10deg) skewY(-10deg);
+}
+.hover-primary:active{
+    scale: 1;
+    transform: none;
+}
+
+.quick-transition{
+    transition: var(--transition);
+}
+
+
+
+
+/* others */
+
+.pointer{
+    cursor: pointer;
+}

@@ -1,0 +1,13 @@
+-> this project currently contains 4 css files.
+
+1) bootstrap.min.css
+2) default.css -> (will be using it on all pages when I add them)
+3) style.css -> (unique for each pages)
+4) utility.css -> (different custom css utilities to reuse them everywhere.)
+
+
+
+-> this project currently contains 1 js file of bootstrap (I will add custom js in future).
+
+-> fonts contains ubuntu-mono font.
+-> images (project images as required).
