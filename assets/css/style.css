@@ -1,3 +1,7 @@
+/* main start */
+
+/* right side start */
+
 .myInfoCard{
     width: 220px;
 }
@@ -9,9 +13,9 @@
     /* min-height: 200px; */
 }
 
-
-/* header start*/
-
+.heading{
+    max-width: 400px;
+}
 
 .myInfoCard {
     overflow: hidden;
@@ -51,20 +55,20 @@
     transform: rotateY(180deg);
 }
 
+/* right side end */
+
+/* left side start */
+
+.skills-card .first{
+    background-color: var(--accent-light);
+}
+
+.skills-card .second{
+    background-color: var(--yellow);
+}
 
 /* left side end */
 
-/* right side start */
-
-/* heading start */
-
-.heading{
-    max-width: 400px;
-}
-
-/* heading end */
-
-
-/* header end */
+/* main end */
 
 

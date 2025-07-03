@@ -1,10 +1,12 @@
 :root{
     --accent: #f86c0c;
+    --accent-light: #f46c38;
     --black: #161412;
     --light-black:#1e1e1e;
     --second-heading:#3d3d3f;
-    --text-b: #5c5858;
+    --text-b: #898584;
     --white: #fff;
+    --yellow: #c6fc42;
 
     --styled-accent-bg:linear-gradient(180deg,rgba(248, 103, 11, 1) 52%, rgba(22, 48, 49, 1) 99%, rgba(22, 48, 49, 1) 100%);
     --transition: all 0.2s linear;

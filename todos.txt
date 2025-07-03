@@ -6,5 +6,9 @@ session 2
 -> 3d card-effect added on myInfoCard. 
 -> added heading and description.
 
+session 3
+-> added current-statistics
+-> added colored cards
+
 next todo
 -> complete full inspiration image.
